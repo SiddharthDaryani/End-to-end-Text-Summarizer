@@ -8,6 +8,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 from textSummarizer.pipeline.prediction import PredictionPipeline
 
+# test commit
+
 
 text:str = "What is Text Summarization?"
 
